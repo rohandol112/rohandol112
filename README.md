@@ -5,7 +5,7 @@
 * 🔭 Working as **Documentation Lead at TCET-Shastra Coding Club**
 * 🎨 Former **Creative Team & Design Associate at IETE TCET**
 * 💬 Ask me about **MERN Stack, UI/UX Design, Competitive Programming**
-* 📫 How to reach me **rohandol@gmail.com**
+* 📫 How to reach me **rohan45321dol@gmail.com**
 * 👨‍💻 All of my projects are available at [GitHub](https://github.com/rohandol112)
 * ⚡ Fun fact: I'm not just a developer and designer - I love solving problems too!
 
