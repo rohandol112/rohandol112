@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rohan Dol
 
-## 💻 Full Stack Developer | Problem Solver | Tech Enthusiast
+## 💻 Full Stack Developer | COMPETITIVE PROGRAMMER | 
 
 I'm passionate about building robust web applications and exploring new technologies. Currently focused on full-stack development with expertise in MERN stack and various modern frameworks.
 
