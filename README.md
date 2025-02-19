@@ -85,4 +85,4 @@ NodeJS, MongoDB, Express
 
 ## Certifications:
 * 🏆 Google Certified Professional UX Designer
-* 🎯 Hacktoberfest 2023 Participant
+* 🎯 Hacktoberfest 2023 Completed
