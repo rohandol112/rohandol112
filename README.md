@@ -89,7 +89,7 @@ Bachelor of Engineering in **Electronics & Computer Science** (2022 – Present)
 
 - 🥇 **Winner** – Techtrove 2.0 Hackathon  
 - 🧩 **Finalist** – 3× National-Level Hackathons (AI & CP Tracks)  
-- 💻 **Competitive Programming:** CodeChef ★★★★★ | Codeforces Pupil (500+ problems solved)  
+- 💻 **Competitive Programming:** CodeChef ★★★★★ | Codeforces Pupil , 500+ problems solved 
 - 🌍 **Hacktoberfest 2023** – Completed  
 - 👨‍🏫 **Advisory Member** – TCET Shastra Coding Club & Google Developer Group On Campus
 
