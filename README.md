@@ -100,15 +100,4 @@ Bachelor of Engineering in **Electronics & Computer Science** (2022 – Present)
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohandol112&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandol112&layout=compact&theme=radical)
 
----
 
-## 🏅 Certifications
-* 🎓 **Google Certified Professional UX Designer**  
-* ⚙️ **Hacktoberfest 2023 Completed**  
-* 🧠 **LangChain & LLM Applications Bootcamp (Ongoing)**  
-* ☁️ **AWS Cloud Practitioner Essentials (Learning)**
-
----
-
-⭐ *"Code. Create. Contribute. Turning ideas into scalable, intelligent systems — one project at a time!"*  
-— **Rohan Dol**
