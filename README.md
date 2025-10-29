@@ -4,7 +4,7 @@
 * 🌱 Currently pursuing **B.E. in Electronics & Computer Science** at **Thakur College of Engineering and Technology (TCET)**
 * 🧾 Served as **Documentation Lead at TCET-Shastra Coding Club**
 * 🎨 Former **Creative & Design Associate at IETE TCET**
-* 💬 Ask me about **MERN Stack, FastAPI, LangChain, and Competitive Programming**
+* 💬 Ask me about **MERN Stack,AI/ML,FaastAPI and Competitive Programming**
 * 👨‍💻 All of my major projects are available on [GitHub](https://github.com/rohandol112)
 * 📫 Reach me at **rohan45321dol@gmail.com**
 * ⚡ Fun fact: I love blending **AI, full-stack engineering, and creative design** to build impactful products!
