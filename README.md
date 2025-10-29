@@ -58,22 +58,6 @@
 
 ---
 
-## 💼 Experience
-
-### 💻 Software Engineer Intern — Pazago Technologies  
-📍 Mumbai, India · *2025 – Present*  
-- Developing scalable full-stack and automation solutions for internal systems.  
-- Working on backend APIs, AI integrations, and dashboard analytics.  
-- Collaborating with the product team on real-world feature development.
-
-### 🤖 Machine Learning Intern — Penguin Apps  
-📍 Mumbai, India · *Nov 2024 – May 2025*  
-- Built ML models for document and image analysis.  
-- Created preprocessing pipelines using **Pandas** and **NumPy**.  
-- Integrated models into production-ready APIs using **FastAPI**.
-
----
-
 ## 🚀 Featured Projects
 
 ### 🧾 [Student Result Analysis Tool](https://github.com/rohandol112/shastra_result)
