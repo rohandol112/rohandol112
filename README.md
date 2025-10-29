@@ -55,28 +55,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
-## Featured Projects:
-
-### [Shastra-Result-Tool](https://github.com/rohandol112/Shastra-Result-Tool)
-ReactJS, TailwindCSS, FastAPI, Selenium, Pandas
-* Developed a full-stack web application that automates HackerRank result processing
-* Implemented web scraping with Selenium and data processing with Pandas
-
-### [System-Design-Learning](https://github.com/rohandol112/System-Design-Learning)
-ReactJS, TailwindCSS
-* Interactive learning platform for system design concepts
-* Responsive design patterns and modern UI components
-
-### [WaterWiki](https://github.com/rohandol112/WaterWiki)
-ReactJS, TailwindCSS, GeminiAPI
-* Educational platform focused on water harvesting techniques
-* AI-powered chat assistance using GeminiAPI
-
-### [Sustainable-Ecommerce-Backend](https://github.com/rohandol112/Sustainable-Ecommerce-Backend)
-NodeJS, MongoDB, Express
-* Scalable backend system with advanced recommendation algorithms
-* RESTful APIs and database optimization
-
 ## GitHub Stats:
 
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohandol112&show_icons=true&theme=radical)
