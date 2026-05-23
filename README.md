@@ -2,12 +2,12 @@
 ### 💻 Software Engineer| Mobile and Web Developer | AI & Blockchain Enthusiast
 
 * 🌱 **B.E. in Electronics & Computer Science** at **Thakur College of Engineering and Technology (TCET)**
-* 🧾 Served as **Documentation Lead at TCET-Shastra Coding Club**
+* 🧾 **Former Advisory & Core Team Member at TCET-Shastra Coding Club**
 * 🎨 Former **Creative & Design Associate at IETE TCET**
-* 💬 Ask me about **MERN Stack,AI/ML,FaastAPI and Competitive Programming**
+* 💬 Ask me about **MERN Stack,AI/ML,FastAPI and Competitive Programming**
 * 👨‍💻 All of my major projects are available on [GitHub](https://github.com/rohandol112)
 * 📫 Reach me at **rohan45321dol@gmail.com**
-* ⚡ Fun fact: I love blending **AI, full-stack engineering, and creative design** to build impactful products!
+* ⚡ I love blending **AI, full-stack engineering, and creative design** to build impactful products!
 
 ---
 
