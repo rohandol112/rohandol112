@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rohan Dol!
-### 💻 Software Engineer Intern | Full Stack Developer | AI & Blockchain Enthusiast
+### 💻 Software Engineer| Mobile and Web Developer | AI & Blockchain Enthusiast
 
-* 🌱 Currently pursuing **B.E. in Electronics & Computer Science** at **Thakur College of Engineering and Technology (TCET)**
+* 🌱 **B.E. in Electronics & Computer Science** at **Thakur College of Engineering and Technology (TCET)**
 * 🧾 Served as **Documentation Lead at TCET-Shastra Coding Club**
 * 🎨 Former **Creative & Design Associate at IETE TCET**
 * 💬 Ask me about **MERN Stack,AI/ML,FaastAPI and Competitive Programming**
