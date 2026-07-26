@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:20232A&height=200&section=header&text=Rohan%20Dol&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Systems&descAlignY=62&descAlign=50" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%26+Mobile+Developer;AI+Orchestration+%26+Agentic+Systems;Competitive+Programmer+(5%E2%98%85+CodeChef)" alt="Typing SVG" />
   </a>
@@ -117,12 +113,6 @@ Bachelor of Engineering in **Electronics & Computer Science** (2022 – 2026)
 ---
 
 ## 📊 Performance & Metrics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohandol112&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandol112&amp;layout=compact&amp;theme=radical&amp;hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohandol112&amp;theme=radical&amp;hide_border=true" />
 </p>
