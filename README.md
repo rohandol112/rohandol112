@@ -1,103 +1,128 @@
-# Hi 👋, I'm Rohan Dol!
-### 💻 Software Engineer| Mobile and Web Developer | AI & Blockchain Enthusiast
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:20232A&height=200&section=header&text=Rohan%20Dol&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Systems&descAlignY=62&descAlign=50" width="100%" />
+</p>
 
-* 🌱 **B.E. in Electronics & Computer Science** at **Thakur College of Engineering and Technology (TCET)**
-* 🧾 **Former Advisory & Core Team Member at TCET-Shastra Coding Club**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%26+Mobile+Developer;AI+Orchestration+%26+Agentic+Systems;Competitive+Programmer+(5%E2%98%85+CodeChef)" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### ⚡ Quick Overview
+
+* 🌱 **B.E. in Electronics & Computer Science** at **Thakur College of Engineering and Technology (TCET)**[cite: 1]
+* 🧾 **Former Advisory & Core Team Member at TCET-Shastra Coding Club**[cite: 1]
 * 🎨 Former **Creative & Design Associate at IETE TCET**
-* 💬 Ask me about **MERN Stack,AI/ML,FastAPI and Competitive Programming**
+* 💬 Ask me about **MERN Stack, AI/ML, FastAPI, and Competitive Programming**
 * 👨‍💻 All of my major projects are available on [GitHub](https://github.com/rohandol112)
-* 📫 Reach me at **rohan45321dol@gmail.com**
+* 📫 Reach me at **rohan45321dol@gmail.com**[cite: 1]
 * ⚡ I love blending **AI, full-stack engineering, and creative design** to build impactful products!
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-dol-44b62a214)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohandol112)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/rohandol)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rohan_dol)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SNipZy)
+<p align="left">
+  <a href="https://linkedin.com/in/rohan-dol"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>[cite: 1]
+  <a href="https://github.com/rohandol112"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://behance.net/rohandol"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/rohan_dol"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/SNipZy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Technical Arsenal
 
-### 🚀 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,aws,cloudflare,tailwind" />
+</p>
 
-### 💡 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<details>
+<summary><b>🔍 Expand detailed skill breakdown</b></summary>
+<br/>
 
-### 🧩 Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-00A86B?style=for-the-badge&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-0A7C99?style=for-the-badge&logo=ipfs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+**Languages:** C++, Python, JavaScript, TypeScript, Java[cite: 1]
 
-### 🤖 AI / ML & Tools
-![LangChain](https://img.shields.io/badge/LangChain-12100E?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+**Frameworks & Libraries:** React, Next.js, Node.js, Express, FastAPI, Spring Boot, React Native, TailwindCSS[cite: 1]
 
-### ⛓️ Blockchain
-![Aptos Move](https://img.shields.io/badge/Aptos_Move-000000?style=for-the-badge&logo=aptos&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+**Databases & Cloud:** PostgreSQL, MongoDB, Redis, Firebase, Pinecone, IPFS, Docker, AWS, Cloudflare[cite: 1]
+
+**AI & Systems:** LangChain, LangGraph, OpenCV, Pandas, NumPy, Selenium[cite: 1]
+
+**Blockchain:** Aptos Move, Web3.js
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧾 [Student Result Analysis Tool](https://github.com/rohandol112/shastra_result)
-*React.js · FastAPI · Pandas · Selenium*  
-College analytics platform for result evaluation and plagiarism detection — integrates automation scripts to collect student data from HackerRank and visualize insights.
+### 📰 **Private Multilingual News Platform**[cite: 1]
+*React Native · Node.js · PostgreSQL · Cloudflare R2 · Redis · BullMQ*[cite: 1]
+> Led a team of engineers to rebuild cross-platform mobile apps and web admin CMS serving 10K+ daily active users in production[cite: 1].
+* Engineered a self-hosted AI speech-to-text transcription and translation pipeline[cite: 1].
+* Built presigned Cloudflare R2 upload flows and BullMQ async video transcoding queues[cite: 1].
+* Cut cloud infrastructure costs by 80% with zero-egress storage and Redis read-caching[cite: 1].
+
+### 🌾 **KrishiMitra**[cite: 1]
+*LangGraph · Groq · Twilio WhatsApp · Bolna / Sarvam AI*[cite: 1]
+> Zero-interface agentic AI platform for Indian agriculture over WhatsApp voice/text[cite: 1].
+* Orchestrates 4 autonomous agents handling real-time query routing for weather, crop diagnostics, mandi rates, and schemes[cite: 1].
+
+### 🔌 **socket-serve**[cite: 1]
+*TypeScript · Redis · Serverless HTTP / SSE*[cite: 1]
+> Open-source npm package for stateless real-time serverless messaging over HTTP/SSE[cite: 1].
+* Implements Redis pub/sub fan-out and session persistence for horizontal edge scaling[cite: 1].
+
+### 🛡️ **InsureSense.ai**[cite: 1]
+*Next.js · Node.js · AI Agents · Razorpay · Webhooks*[cite: 1]
+> Fintech platform combining multi-agent orchestration with idempotent Razorpay payments[cite: 1].
+
+### 🧾 [Student Result Analysis Tool](https://github.com/rohandol112/shastra_result)[cite: 1]
+*React.js · FastAPI · Pandas · Selenium*[cite: 1]
+> College analytics platform for result evaluation, HackerRank automated data fetching, and plagiarism checking[cite: 1].
 
 ### 🧠 [DocuMindAI](https://github.com/rohandol112/documind-ai)
-*Next.js 15 · FastAPI · MongoDB · Pinecone · LangChain*  
-An AI SaaS tool for intelligent document processing, OCR, and semantic search with chat-based retrieval.
+*Next.js 15 · FastAPI · MongoDB · Pinecone · LangChain*
+> AI SaaS platform for document processing, OCR, and semantic vector search.
 
 ### 🔗 [Heirloom](https://github.com/rohandol112/Heirloom)
-*Aptos Move · Next.js 15 · IPFS*  
-A blockchain-based inheritance automation system using Aptos smart contracts and decentralized file storage.
+*Aptos Move · Next.js 15 · IPFS*
+> Blockchain-based inheritance automation system using Aptos smart contracts.
 
 ### 💧 [Water Filter Monitoring App](https://github.com/rohandol112/FilterApp)
-*React Native · Firebase*  
-IoT-enabled app for real-time monitoring and maintenance tracking of household water filters.
+*React Native · Firebase*
+> IoT mobile app for real-time filter monitoring and maintenance notifications.
 
 ---
 
 ## 🎓 Education
 
-**Thakur College of Engineering & Technology (TCET)**  
-Bachelor of Engineering in **Electronics & Computer Science** (2022 – Present)
+**Thakur College of Engineering & Technology (TCET)**[cite: 1]  
+Bachelor of Engineering in **Electronics & Computer Science** (2022 – 2026)[cite: 1]
 
 ---
 
 ## 🏆 Achievements & Leadership
 
-- 🥇 **Winner** – Techtrove 2.0 Hackathon  
-- 🧩 **Finalist** – 3× National-Level Hackathons (AI & CP Tracks)  
-- 💻 **Competitive Programming:** CodeChef ★★★★★ | Codeforces Pupil , 500+ problems solved 
-- 🌍 **Hacktoberfest 2023** – Completed  
-- 👨‍🏫 **Advisory Member** – TCET Shastra Coding Club & Google Developer Group On Campus
+- 🥇 **Winner** – Techtrove 2.0 Hackathon[cite: 1]
+- 🧩 **Finalist** – 3× National-Level Hackathons (AI & CP Tracks)[cite: 1]
+- 💻 **Competitive Programming:** CodeChef ★★★★★ (5 Stars) | Codeforces Specialist | 500+ problems solved[cite: 1]
+- 🌍 **Hacktoberfest 2023** – Completed[cite: 1]
+- 👨‍🏫 **Advisory Member** – TCET Shastra Coding Club & Google Developer Groups (GDG) TCET[cite: 1]
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance & Metrics
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohandol112&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandol112&layout=compact&theme=radical)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohandol112&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandol112&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohandol112&theme=radical&hide_border=true" />
+</p>
