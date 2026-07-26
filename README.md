@@ -30,25 +30,22 @@
 
 ---
 
-## Technical Arsenal
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,aws,cloudflare,tailwind" />
 </p>
 
-<details>
-<summary><b>Expand detailed skill breakdown</b></summary>
+<details open>
+<summary><b>Detailed Tech Stack</b></summary>
 <br/>
 
-**Languages:** C++, Python, JavaScript, TypeScript, Java
-
-**Frameworks & Libraries:** React, Next.js, Node.js, Express, FastAPI, Spring Boot, React Native, TailwindCSS
-
-**Databases & Cloud:** PostgreSQL, MongoDB, Redis, Firebase, Pinecone, IPFS, Docker, AWS, Cloudflare
-
-**AI & Systems:** LangChain, LangGraph, OpenCV, Pandas, NumPy, Selenium
-
-**Blockchain:** Aptos Move, Web3.js
+* **Languages:** C++, Python, JavaScript, TypeScript, Java
+* **Backend & Systems:** Node.js, Express, Fastify, Hono, FastAPI, Spring Boot, REST APIs, JWT, OAuth, Webhooks, Kafka, RabbitMQ, BullMQ
+* **Frontend & Mobile:** React.js, Next.js, React Native, TailwindCSS, Zustand, ShadCN
+* **Databases & Infra:** PostgreSQL, MongoDB, Redis, Firebase, Pinecone, IPFS
+* **AI & ML:** LangChain, LangGraph, Groq, Pandas, NumPy, OpenCV, YOLO, Mastra
+* **Cloud & DevOps:** Docker, AWS, Cloudflare (Workers/R2), Vercel, Git
 
 </details>
 
